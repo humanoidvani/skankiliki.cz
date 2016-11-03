@@ -1,3 +1,3 @@
 # skankiliki.cz
 
-![skankiliki](https://github.com/humanoidvani/skankiliki.cz/blob/master/skankiliki.png )
+![skankiliki](https://github.com/humanoidvani/skankiliki.cz/blob/master/www/skankiliki.png)
